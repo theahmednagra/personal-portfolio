@@ -314,7 +314,6 @@ export const skills = [
       },
     ],
   },
-];
 
   // Template
   // {
