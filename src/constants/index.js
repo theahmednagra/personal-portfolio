@@ -247,7 +247,7 @@ export const skills = [
 ];
 
 // Add your current/past professional work experience here
-export const experiences = [
+ export const experiences = [
   {
     organisation: "Self Initiated Development",
     logo: hackathon_curation_agent,
@@ -258,27 +258,23 @@ export const experiences = [
         duration: "2023 - 2025",
         content: [
           {
-            text: "Designed and developed multiple full-stack web applications using React, Next.js, Node.js, and MongoDB while practicing real-world architecture and development workflows.",
+            text: "Built and deployed full-stack applications using Next.js, Node.js, and MongoDB with real-world architecture practices.",
             link: "",
           },
           {
-            text: "Built AI-powered web applications by integrating external APIs such as Gemini API with custom frontend interfaces and backend logic.",
+            text: "Integrated AI features through external APIs with custom frontend and backend logic.",
             link: "",
           },
           {
-            text: "Developed strong frontend skills using React, Next.js, TypeScript and Tailwind CSS, focusing on responsive UI and reusable component architecture.",
+            text: "Developed responsive, reusable UI components using React, TypeScript, and Tailwind CSS.",
             link: "",
           },
           {
-            text: "Implemented backend services using Node.js and Express, including authentication systems, RESTful APIs, database modeling, and validation.",
+            text: "Implemented backend systems including authentication, REST APIs, and database design.",
             link: "",
           },
           {
-            text: "Practiced modern development workflows including Git version control, feature branching, preview deployments, and iterative testing.",
-            link: "",
-          },
-          {
-            text: "Deployed several projects using modern hosting platforms and gained practical experience with full-stack deployment pipelines.",
+            text: "Worked with Git-based workflows and handled full-stack deployments on modern platforms.",
             link: "",
           },
         ],
@@ -295,33 +291,30 @@ export const experiences = [
         duration: "December 2025 - April 2026",
         content: [
           {
-            text: "Designed and developed a full-stack e-commerce web application including authentication, authorization, product management, cart, orders, and category systems.",
+            text: "Developed a full-stack e-commerce application with authentication, role-based access, and complete product, cart, and order management.",
             link: "",
           },
           {
-            text: "Built backend APIs using Node.js, Express, MongoDB and TypeScript with modular architecture, proper validation, and secure role-based access control.",
+            text: "Built scalable backend APIs using Node.js, Express, MongoDB, and TypeScript with modular architecture.",
             link: "",
           },
           {
-            text: "Implemented the frontend using Next.js, TypeScript and Tailwind CSS with responsive UI and API integration.",
+            text: "Implemented frontend using Next.js and Tailwind CSS with responsive design and API integration.",
             link: "",
           },
           {
-            text: "Handled the complete system architecture including database schema design, API structure, and business logic.",
+            text: "Designed system architecture including database schemas and core business logic.",
             link: "",
           },
           {
-            text: "Deployed the application using Vercel (frontend) and Render (backend) with Git-based workflow and preview deployments.",
-            link: "",
-          },
-          {
-            text: "Collaborated with other interns on a team project and eventually completed both backend and frontend while maintaining production-style development practices.",
+            text: "Deployed applications using Vercel and Render and collaborated in a team environment.",
             link: "",
           },
         ],
       },
     ],
   },
+];
 
   // Template
   // {
