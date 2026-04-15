@@ -46,7 +46,7 @@ import { DiCss3 } from "react-icons/di";
 import { BiLogoVisualStudio } from "react-icons/bi";
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1znQY4cVC4Khivd41bS6yHgo0SbW6pq37/view?usp=sharing"
+  "https://drive.google.com/file/d/1hm8ntQHT_r_UFcEjzaCZGche0WsWuysv/view?usp=sharing"
 export const repoLink = "https://github.com/theahmednagra/personal-portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/theahmednagra";
@@ -76,8 +76,8 @@ export const educationList = [
     id: "education-1",
     icon: tevta_logo,
     title: "Government College of Technology, Bhawalpur",
-    degree: "Associate Degree in Civil Technology",
-    duration: "December 2022 - May 2025",
+    degree: "Diploma of Associate Engineering - Civil Technology",
+    duration: "August 2022 - July 2025",
     content1: "Major: Civil Technology",
     content2: "Minor: Information Technology",
   },
@@ -86,9 +86,9 @@ export const educationList = [
     icon: vu_logo,
     title: "Virtual University of Pakistan",
     degree: "Bachelor of Science in Computer Science",
-    duration: "Present - June 2029",
+    duration: "Commencing 2026",
     content1:
-      "Currently pursuing a BS in Computer Science at Virtual University of Pakistan, successfully balancing academic progress with full-time professional development in software engineering.",
+      "Planned to start a BS in Computer Science while actively building real-world full-stack applications and gaining practical, industry-level experience.",
   },
 ];
 
@@ -597,5 +597,5 @@ export const aboutMe = {
   tagLine:
     "Full-Stack Developer | 2+ Years Self-Taught Experience | Next.js & Node.js Enthusiast",
   intro:
-    "Software Developer from Pakistan who is either busy improving his craft or pondering over the next big idea.",
+    "Software Developer from Pakistan focused on continuously improving his craft and exploring new ideas to build impactful solutions.",
 };
