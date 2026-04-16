@@ -255,7 +255,7 @@ export const skills = [
     positions: [
       {
         title: "Full Stack Web Developer",
-        duration: "2023 - 2025",
+        duration: "2024 - 2025",
         content: [
           {
             text: "Built and deployed full-stack applications using Next.js, Node.js, and MongoDB with real-world architecture practices.",
@@ -281,6 +281,7 @@ export const skills = [
       },
     ],
   },
+  
   {
     organisation: "OZ Group",
     logo: oz_group,
@@ -291,29 +292,30 @@ export const skills = [
         duration: "December 2025 - April 2026",
         content: [
           {
-            text: "Developed a full-stack e-commerce application with authentication, role-based access, and complete product, cart, and order management.",
+            text: "Contributed to production-level Next.js applications by implementing features, fixing bugs, and improving UI consistency.",
             link: "",
           },
           {
-            text: "Built scalable backend APIs using Node.js, Express, MongoDB, and TypeScript with modular architecture.",
+            text: "Collaborated in a team environment using Git workflows including branching, pull requests, and code reviews.",
             link: "",
           },
           {
-            text: "Implemented frontend using Next.js and Tailwind CSS with responsive design and API integration.",
+            text: "Worked on full-stack features involving authentication, product management, and user-facing dashboards.",
             link: "",
           },
           {
-            text: "Designed system architecture including database schemas and core business logic.",
+            text: "Improved application stability and performance by debugging frontend-backend integration issues.",
             link: "",
           },
           {
-            text: "Deployed applications using Vercel and Render and collaborated in a team environment.",
+            text: "Gained hands-on experience working with scalable codebases, REST APIs, and modern deployment workflows.",
             link: "",
           },
-        ],
+],
       },
     ],
   },
+
 
   // Template
   // {
