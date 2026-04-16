@@ -255,7 +255,7 @@ export const skills = [
     positions: [
       {
         title: "Full Stack Web Developer",
-        duration: "2024 - 2025",
+        duration: "December 2024 - December 2025",
         content: [
           {
             text: "Built and deployed full-stack applications using Next.js, Node.js, and MongoDB with real-world architecture practices.",
@@ -289,7 +289,7 @@ export const skills = [
     positions: [
       {
         title: "Full Stack Developer Intern",
-        duration: "December 2025 - April 2026",
+        duration: "December 2025 - March 2026",
         content: [
           {
             text: "Contributed to production-level Next.js applications by implementing features, fixing bugs, and improving UI consistency.",
@@ -311,7 +311,7 @@ export const skills = [
             text: "Gained hands-on experience working with scalable codebases, REST APIs, and modern deployment workflows.",
             link: "",
           },
-],
+        ],
       },
     ],
   },
@@ -470,7 +470,7 @@ export const projects = [
     link: "https://ancart.vercel.app",
     image: hackathon_curation_agent,
     content:
-      "A Node.js based backend system for an e-commerce application. It handles user authentication, product and category management, shopping cart functionality, and order processing, with separate routes for admin and public users.",
+      "A Node.js backend for an e-commerce application featuring authentication, product and category management, shopping cart functionality, and order processing, with secure admin routes.",
     stack: [
       {
         id: "proj3-icon-1",
